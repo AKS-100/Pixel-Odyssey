@@ -434,7 +434,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerController: {fileID: 8128307141711142835}
-  animator: {fileID: 0}
+  animator: {fileID: 2176350017177589432}
 --- !u!1839735485 &3993824167875135989
 Tilemap:
   m_ObjectHideFlags: 0
